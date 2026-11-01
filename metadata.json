@@ -1,0 +1,6 @@
+{
+  "name": "Jabsons Bhiwani",
+  "description": "Order premium Jabsons peanuts, namkeen, snacks, and festive gift packs in Bhiwani City.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
